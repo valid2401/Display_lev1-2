@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://picsum.photos/800/600/)
+}
+
+nav:nth-of-type(1) {
+    color: white; 
+    list-style-type: none;
+    text-align: center; 
+    
+}
